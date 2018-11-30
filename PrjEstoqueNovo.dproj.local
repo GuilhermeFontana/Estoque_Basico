@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/29 19:03:41.000.505,=C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/29 19:31:28.000.367,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\USUARIO\Desktop\Projeto Estoque\UntPrincipal.pas</Transaction>
+    <Transaction>2018/08/29 19:31:28.000.367,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\USUARIO\Desktop\Projeto Estoque\UntPrincipal.dfm</Transaction>
+    <Transaction>2018/08/29 19:31:33.000.674,C:\Users\USUARIO\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\USUARIO\Desktop\Projeto Estoque\PrjEstoque.dproj</Transaction>
+    <Transaction>2018/09/02 17:28:08.000.935,=C:\Users\USUARIO\Desktop\Projeto Estoque\Unit2.pas</Transaction>
+    <Transaction>2018/09/02 17:29:29.000.579,C:\Users\USUARIO\Desktop\Projeto Estoque\Unit2.pas=C:\Users\USUARIO\Desktop\Projeto Estoque\UntMais.pas</Transaction>
+    <Transaction>2018/09/02 17:29:29.000.579,C:\Users\USUARIO\Desktop\Projeto Estoque\Unit2.dfm=C:\Users\USUARIO\Desktop\Projeto Estoque\UntMais.dfm</Transaction>
+    <Transaction>2018/09/02 17:36:41.000.224,C:\Users\USUARIO\Desktop\Projeto Estoque\UntMais.pas=</Transaction>
+    <Transaction>2018/09/02 19:09:20.000.293,=C:\Users\USUARIO\Desktop\Projeto Estoque\Unit1.pas</Transaction>
+    <Transaction>2018/11/25 11:35:20.000.985,C:\Users\USUARIO\Desktop\Projeto Estoque Novo\PrjEstoqueNovo.dproj=C:\Users\USUARIO\Desktop\Projeto Estoque Novo\PrjEstoque.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
